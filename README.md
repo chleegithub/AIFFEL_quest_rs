@@ -27,21 +27,6 @@ AIFFEL_quest_rs
 │   ├── Quest05
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Quest06
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest07
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest08
-│   │   ├── .ipynb
-│   │   └── README.md
-│   ├── Quest09
-│   │   ├── .ipynb
-│   │   └── README.md
-│   └── Quest10
-│       ├── .ipynb
-│       └── README.md
 ├── Exploration
 │   ├── Quest01
 │   │   ├── .ipynb
