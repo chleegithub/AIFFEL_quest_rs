@@ -25,8 +25,8 @@ AIFFEL_quest_rs
 │   │   ├── .ipynb
 │   │   └── README.md
 │   ├── Quest05
-│   │   ├── .ipynb
-│   │   └── README.md
+│       ├── .ipynb
+│       └── README.md
 ├── Exploration
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -58,16 +58,33 @@ AIFFEL_quest_rs
 │   └── Quest10
 │       ├── .ipynb
 │       └── README.md.
-
-
-
-.
-└── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
+└── GoingDeeper
+    ├── Quest01
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest02
+    │   ├── .ipynb
+    │   └── README.md.		.
+    ├── Quest03
+    │   ├── .ipynb
+    │   └── README.md.		.
+    ├── Quest04
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest05
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest06
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest07
+    │   ├── .ipynb
+    │   └── README.md
+    ├── Quest08
+    │   ├── .ipynb
+    │   └── README.md
+    └── Quest09
         ├── .ipynb
         └── README.md
+
 ```
