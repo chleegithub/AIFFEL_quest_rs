@@ -24,7 +24,7 @@ AIFFEL_quest_rs
 │   ├── Quest04
 │   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Quest05
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 ├── Exploration
