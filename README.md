@@ -9,4 +9,80 @@
 
 레포구조 :
 
+```
 AIFFEL_quest_rs
+├── MainQuest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md.		.
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md.		.
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest08
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest09
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest10
+│       ├── .ipynb
+│       └── README.md
+├── Exploration
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md.		.
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md.		.
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest07
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest08
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest09
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest10
+│       ├── .ipynb
+│       └── README.md.
+
+
+
+.
+└── Exploration
+    ├── Ex01
+    .
+    .
+    .
+    └── Ex07
+        ├── .ipynb
+        └── README.md
+```
